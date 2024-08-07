@@ -1,4 +1,4 @@
-package com.colak.springsecuritytutorial.controller;
+package com.colak.springtutorial.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PostMapping;
